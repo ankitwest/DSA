@@ -1,0 +1,13 @@
+
+Heap -> Not understood.
+Stack -> Not understood.
+        Rain problem.
+        Maximum area of rectangle 
+
+
+Binary Search -> Important.
+
+
+Greedy  143
+Graph  152
+DP    175
